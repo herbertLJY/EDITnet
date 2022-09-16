@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d5ced40-8c02-42e3-a6eb-d3b082fd7fa6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1vqAbOxhSHFFcgj4rAZxVRXnxvG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/VAE_lib_CN_BN_contras" />
+      <recent name="$PROJECT_DIR$/scripts/cn_vox/vox_pretrain" />
+      <recent name="$PROJECT_DIR$/scripts/barista/CN" />
+      <recent name="$PROJECT_DIR$/VAE_lib_CN_BN_kl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts/barista/CN/AE_CN_BN" />
+      <recent name="$PROJECT_DIR$/temp/VAE_lib_CN_BN/len200_b256_epoch10_plane512_lrcosine/vae6" />
+      <recent name="$PROJECT_DIR$/scripts/barista/CN" />
+      <recent name="$PROJECT_DIR$/audio_models/bk" />
+      <recent name="$PROJECT_DIR$/temp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tt">
+    <configuration name="hist_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SV_baseline_may" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp/VAE_lib_CN_BN/len200_b256_epoch10_plane512_lrcosine/vae6/vae6_00_128_lossl2_thres0_lr20_lr31_lr40.01_lr50.1_affine0_wd1e-3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp/VAE_lib_CN_BN/len200_b256_epoch10_plane512_lrcosine/vae6/vae6_00_128_lossl2_thres0_lr20_lr31_lr40.01_lr50.1_affine0_wd1e-3/hist_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seq_process_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SV_baseline_may" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/audio_utils/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/audio_utils/data/seq_process_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SV_baseline_may" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/audio_utils/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/audio_utils/data/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsne_view2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SV_baseline_may" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp/VAE_lib_CN_BN/len200_b256_epoch10_plane512_lrcosine/vae6/vae6_00_128_lossl2_thres0_lr20_lr31_lr40.01_lr50.1_affine0_wd1e-3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp/VAE_lib_CN_BN/len200_b256_epoch10_plane512_lrcosine/vae6/vae6_00_128_lossl2_thres0_lr20_lr31_lr40.01_lr50.1_affine0_wd1e-3/tsne_view2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SV_baseline_may" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp/tt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tt" />
+        <item itemvalue="Python.seq_process_train" />
+        <item itemvalue="Python.temp (1)" />
+        <item itemvalue="Python.hist_view" />
+        <item itemvalue="Python.tsne_view2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5ced40-8c02-42e3-a6eb-d3b082fd7fa6" name="Default Changelist" comment="" />
+      <created>1627279315521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627279315521</updated>
+      <workItem from="1627279316716" duration="19000" />
+      <workItem from="1627634926805" duration="23207000" />
+      <workItem from="1628585813804" duration="49636000" />
+      <workItem from="1629772201448" duration="49194000" />
+      <workItem from="1631239773496" duration="1222000" />
+      <workItem from="1632363806638" duration="1204000" />
+      <workItem from="1637040280624" duration="13229000" />
+      <workItem from="1637819555744" duration="15889000" />
+      <workItem from="1638955305099" duration="38958000" />
+      <workItem from="1641531443761" duration="29000" />
+      <workItem from="1641531491896" duration="399000" />
+      <workItem from="1641533547660" duration="27000" />
+      <workItem from="1641537898063" duration="988000" />
+      <workItem from="1641818399245" duration="4676000" />
+      <workItem from="1641975114075" duration="69349000" />
+      <workItem from="1642592864626" duration="2347000" />
+      <workItem from="1642604460386" duration="1587000" />
+      <workItem from="1642995869175" duration="9672000" />
+      <workItem from="1643107269263" duration="23154000" />
+      <workItem from="1643174263779" duration="40558000" />
+      <workItem from="1643711464539" duration="599000" />
+      <workItem from="1643775125795" duration="599000" />
+      <workItem from="1643861476980" duration="599000" />
+      <workItem from="1644072296738" duration="14562000" />
+      <workItem from="1644337200571" duration="2000" />
+      <workItem from="1644337220106" duration="59838000" />
+      <workItem from="1645010162120" duration="19680000" />
+      <workItem from="1645157661227" duration="83563000" />
+      <workItem from="1645794674603" duration="20724000" />
+      <workItem from="1646041038225" duration="38825000" />
+      <workItem from="1646229993752" duration="1676000" />
+      <workItem from="1646410895075" duration="4568000" />
+      <workItem from="1652692804648" duration="1284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$resnetSE_wave_1d.coverage" NAME="resnetSE_wave_1d Coverage Results" MODIFIED="1630485812938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$VAE8.coverage" NAME="VAE8 Coverage Results" MODIFIED="1644897366229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_BN" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$TDNN_wavelet_half.coverage" NAME="TDNN_wavelet_half Coverage Results" MODIFIED="1637061320277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN$debug.coverage" NAME="debug Coverage Results" MODIFIED="1642410422811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$VAE2.coverage" NAME="VAE2 Coverage Results" MODIFIED="1644897676265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_BN2" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN_feat$VAE.coverage" NAME="VAE Coverage Results" MODIFIED="1643171206768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_BN_mel" />
+    <SUITE FILE_PATH="coverage/SV_baseline_August$ppp.coverage" NAME="ppp Coverage Results" MODIFIED="1629098241424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN$VAE_light.coverage" NAME="VAE_light Coverage Results" MODIFIED="1642341338937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_1d" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN$view_1d.coverage" NAME="view_1d Coverage Results" MODIFIED="1642573042042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN$VAE_light__1_.coverage" NAME="VAE_light (1) Coverage Results" MODIFIED="1642341284786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_2d" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$TDNN_wavelet_half_v2.coverage" NAME="TDNN_wavelet_half_v2 Coverage Results" MODIFIED="1630404509117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN_BN$vae_view_mel.coverage" NAME="vae_view_mel Coverage Results" MODIFIED="1643261560496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SV_baseline_August$CNN_feat.coverage" NAME="CNN_feat Coverage Results" MODIFIED="1629345675278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models/wav_feat" />
+    <SUITE FILE_PATH="coverage/SV_baseline_may$TDNN_Res2Net_relubn_2D.coverage" NAME="TDNN_Res2Net_relubn_2D Coverage Results" MODIFIED="1628583228578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_VAE_contrastive$seq_process_train.coverage" NAME="seq_process_train Coverage Results" MODIFIED="1645802735677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_utils/data" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$resnetSE_1d.coverage" NAME="resnetSE_1d Coverage Results" MODIFIED="1630480064511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$VAE7.coverage" NAME="VAE7 Coverage Results" MODIFIED="1644846547161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_BN" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$VAE3.coverage" NAME="VAE3 Coverage Results" MODIFIED="1645091842619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AE_lib_CN_BN" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1642489833503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN$VAE__1_.coverage" NAME="VAE (1) Coverage Results" MODIFIED="1642341186568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_2d" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$TDNN_wavelet2.coverage" NAME="TDNN_wavelet2 Coverage Results" MODIFIED="1629776241032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$resnet_SE.coverage" NAME="resnet_SE Coverage Results" MODIFIED="1630478389179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_VAE$TDNN_Res2Net_relubn.coverage" NAME="TDNN_Res2Net_relubn Coverage Results" MODIFIED="1639383108764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_may$ppp.coverage" NAME="ppp Coverage Results" MODIFIED="1627984470772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$tsne_view.coverage" NAME="tsne_view Coverage Results" MODIFIED="1645536231710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp/VAE_lib_CN_BN/len200_b256_epoch10_plane512_lrcosine/vae6/vae6_00_128_lossl2_thres0_lr20_lr31_lr40.01_lr50.1_affine0_wd1e-3" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$TDNN_wavelet__1_.coverage" NAME="TDNN_wavelet (1) Coverage Results" MODIFIED="1629960354040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models/new" />
+    <SUITE FILE_PATH="coverage/SV_baseline_August$SincNet.coverage" NAME="SincNet Coverage Results" MODIFIED="1629444352509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models/wav_feat" />
+    <SUITE FILE_PATH="coverage/SV_baseline_August$debug.coverage" NAME="debug Coverage Results" MODIFIED="1629268452779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$TDNN_wavelet_v2.coverage" NAME="TDNN_wavelet_v2 Coverage Results" MODIFIED="1630314353651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_August$wavelet.coverage" NAME="wavelet Coverage Results" MODIFIED="1629443412125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$temp.coverage" NAME="temp Coverage Results" MODIFIED="1645451580692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1645195646037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_VAE$VAE.coverage" NAME="VAE Coverage Results" MODIFIED="1639127559188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$resnetSE_wave_1d_v2.coverage" NAME="resnetSE_wave_1d_v2 Coverage Results" MODIFIED="1630486961622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$t.coverage" NAME="t Coverage Results" MODIFIED="1644683501764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logs" />
+    <SUITE FILE_PATH="coverage/SV_baseline_may$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1627984149511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$VAE.coverage" NAME="VAE Coverage Results" MODIFIED="1644575548985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_BN" />
+    <SUITE FILE_PATH="coverage/SV_baseline_August$WaveletConv.coverage" NAME="WaveletConv Coverage Results" MODIFIED="1629707245610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models/wav_feat" />
+    <SUITE FILE_PATH="coverage/SV_baseline_August$TDNN_wavelet.coverage" NAME="TDNN_wavelet Coverage Results" MODIFIED="1629713226119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN$TDNN_Res2Net_relubn.coverage" NAME="TDNN_Res2Net_relubn Coverage Results" MODIFIED="1642493467326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$VAE4.coverage" NAME="VAE4 Coverage Results" MODIFIED="1644741997831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_BN" />
+    <SUITE FILE_PATH="coverage/SV_baseline_VAE_contrastive$tt.coverage" NAME="tt Coverage Results" MODIFIED="1646216527673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN$VAE__2_.coverage" NAME="VAE (2) Coverage Results" MODIFIED="1642341313608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_1d" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$hist_view.coverage" NAME="hist_view Coverage Results" MODIFIED="1645541281560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp/VAE_lib_CN_BN/len200_b256_epoch10_plane512_lrcosine/vae6/vae6_00_128_lossl2_thres0_lr20_lr31_lr40.01_lr50.1_affine0_wd1e-3" />
+    <SUITE FILE_PATH="coverage/SV_baseline_VAE$debug.coverage" NAME="debug Coverage Results" MODIFIED="1639126684688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$train_sv_cnn.coverage" NAME="train_sv_cnn Coverage Results" MODIFIED="1637058439567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN_BN$create_pair.coverage" NAME="create_pair Coverage Results" MODIFIED="1644244780348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Audio_process" />
+    <SUITE FILE_PATH="coverage/SV_baseline_VAE_contrastive$temp__1_.coverage" NAME="temp (1) Coverage Results" MODIFIED="1645799547534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_utils/data" />
+    <SUITE FILE_PATH="coverage/SV_baseline_may$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1627984230195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$AE2.coverage" NAME="AE2 Coverage Results" MODIFIED="1645094101428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AE_lib_CN_BN" />
+    <SUITE FILE_PATH="coverage/SV_baseline_may$rewrite_path.coverage" NAME="rewrite_path Coverage Results" MODIFIED="1627635987273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Audio_process" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN_BN$VAE.coverage" NAME="VAE_unet Coverage Results" MODIFIED="1643341727136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_BN_mel" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$tsne_view2.coverage" NAME="tsne_view2 Coverage Results" MODIFIED="1645538874120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp/VAE_lib_CN_BN/len200_b256_epoch10_plane512_lrcosine/vae6/vae6_00_128_lossl2_thres0_lr20_lr31_lr40.01_lr50.1_affine0_wd1e-3" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1644916214587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_may$t3.coverage" NAME="t3 Coverage Results" MODIFIED="1627984713198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet$TDNN_wavelet.coverage" NAME="TDNN_wavelet Coverage Results" MODIFIED="1629960391538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_WaveletNet_nonlocal$resnetL.coverage" NAME="resnetL Coverage Results" MODIFIED="1638170607807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/audio_models" />
+    <SUITE FILE_PATH="coverage/SV_baseline_CN_feat$temp.coverage" NAME="temp Coverage Results" MODIFIED="1643115848327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/SV_baseline_BN_VAE$VAE5.coverage" NAME="VAE5 Coverage Results" MODIFIED="1644818468768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VAE_lib_CN_BN" />
+  </component>
+</project>
